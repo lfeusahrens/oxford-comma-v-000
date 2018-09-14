@@ -1,3 +1,3 @@
 def oxford_comma(array)
-["Boats", "Oliver", "Moe"].join(" and ")
+array.join(" and ")
 end
